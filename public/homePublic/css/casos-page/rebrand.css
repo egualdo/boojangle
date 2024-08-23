@@ -1,0 +1,30 @@
+.rebrand{
+
+    padding-top: 4rem;
+    }
+    .rebrand .info-rebrand{
+    
+    /* align-items: center; */
+    
+    height: 100%;
+    
+    padding: 0 4%;
+    
+    padding-top: 2%;
+    }
+    
+    
+    .rebrand .info-rebrand h2{
+    
+    margin-bottom: 1rem;
+    
+    font-family: 'GraphikSemibold';
+    }
+    
+    .rebrand .info-rebrand p{
+    
+    font-family: AbelRegular;
+    
+    font-size: 1.75rem;
+    }
+    

@@ -1,0 +1,162 @@
+    .packaging{ padding-top: 4rem;
+                padding-bottom: 8rem;
+                background: linear-gradient(0deg, rgba(235,236,244,1) 50%, rgba(255,255,255,1) 50%);
+                overflow:hidden;
+    }
+    .packaging img{
+        position:relative;
+        z-index:2;
+    }
+    .rebrand .info-rebrand{
+    
+        /* align-items: center; */
+        
+        height: 100%;
+        
+        padding: 0 4%;
+        
+        padding-top: 2%;
+    }
+    
+    
+    .packaging .info-packaging h2{
+    
+        margin-bottom: 1rem;
+    
+        font-family: 'GraphikSemibold';
+    }
+    
+    .packaging .info-packaging p{
+    
+        font-family: AbelRegular;
+    
+        font-size: 1.75rem;
+    }
+    .packaging .txt-bg{
+        font-family: 'GraphikSemibold';
+        position: absolute;
+        bottom: -13rem;
+        right: 0;
+        z-index: 1;
+        font-size: 10rem;
+        color: white;
+        /* text-align: right; */
+    }
+
+    
+
+@media (max-width:991px){
+
+    .packaging .txt-bg{
+        
+        font-size: 16vw;
+                
+        bottom: -7rem;
+    }
+    .packaging .info-packaging h2{
+    
+        margin-bottom: 1rem;
+    
+        font-family: 'GraphikSemibold';
+    }
+    
+    .packaging .info-packaging p{
+    
+        font-family: AbelRegular;
+            
+        font-size: 1.35rem;
+    }
+    .packaging{
+        
+        padding-bottom: 5rem;
+    }
+}
+
+
+
+
+
+    .packaging-services{ padding-top: 4rem;
+                padding-bottom: 4rem;
+                background: linear-gradient(0deg, rgba(235,236,244,1) 100%, rgba(255,255,255,1) 50%);
+                overflow:hidden;
+    }
+    .packaging-services img{
+        position:relative;
+        z-index:2;
+    }
+    .rebrand .info-rebrand{
+    
+        /* align-items: center; */
+        
+        height: 100%;
+        
+        padding: 0 4%;
+        
+        padding-top: 2%;
+    }
+    
+    
+    .packaging-services .info-packaging-services h2{
+    
+        margin-bottom: 1rem;
+    
+        font-family: 'GraphikSemibold';
+    }
+    
+    .packaging-services .info-packaging-services p{
+    
+        font-family: AbelRegular;
+        position: relative;
+        /* bottom: -120rem; */
+        z-index: 1;
+        margin-top: 40%;
+        margin-right: 20%;
+        font-size: 1.3rem;
+    }
+    .packaging-services .txt-bg{
+        font-family: 'GraphikSemibold';
+        position: absolute;
+        top:-4rem;
+        max-width: 50%;
+        font-weight: bold;
+        line-height: 100px;
+        text-decoration: none;
+
+        
+        /* bottom: -13rem; */
+        /* right: 0; */
+        z-index: 1;
+        font-size: 8rem;
+        color: white;
+        /* text-align: right; */
+    }
+
+    
+
+@media (max-width:991px){
+
+    .packaging-services .txt-bg{
+        
+        font-size: 16vw;
+                
+        bottom: -7rem;
+    }
+    .packaging-services .info-packaging-services h2{
+    
+        margin-bottom: 1rem;
+    
+        font-family: 'GraphikSemibold';
+    }
+    
+    .packaging-services .info-packaging-services p{
+    
+        font-family: AbelRegular;
+            
+        font-size: 1.35rem;
+    }
+    .packaging-services{
+        
+        padding-bottom: 5rem;
+    }
+}

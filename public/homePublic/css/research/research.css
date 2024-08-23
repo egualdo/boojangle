@@ -1,0 +1,227 @@
+.research-data{
+
+}
+
+
+.research-data .cabecera-research{
+    background: rgba(173, 174, 207, 0.40);
+    min-height: 22rem;
+    padding-top: 9rem;
+    position: relative;
+}
+
+.research-data .cabecera-research img{
+    /* background: rgba(173, 174, 207, 0.40); */
+    position: absolute;
+    /* margin-top: 1rem; */
+    right: 5rem;
+}
+
+.research-data .cabecera-research p{
+    /* background: rgba(173, 174, 207, 0.40); */
+    /* position: absolute; */
+    margin-top: 1rem;
+    /* right: 5rem; */
+}
+.research-data .infopaper{margin-top: -12rem;/* display: block; */}
+
+.research-data .infopaper .cont-info{
+
+display: flex;
+}
+
+
+.research-data .infopaper .cont-info .image-paper{
+
+display: flow;
+
+width: 39%;
+
+position: relative;
+}
+
+.research-data .infopaper .cont-info .image-paper img{
+
+width: 100%;
+}
+
+
+.research-data .infopaper .cont-info .info-paper{
+
+margin-top: 13rem;
+
+padding: 3rem;
+
+width: 56%;
+}
+.research-data .infopaper .cont-info .info-paper h1{font-family: GraphikBold;font-size: 2rem;}
+.research-data .infopaper .cont-info .info-paper .info{font-family: AbelRegular;font-weight: 100;}
+
+.form-paper{
+    
+text-align: center;
+}
+
+.form-paper .formulario{
+    max-width: 673px;
+    margin: 0 auto;
+}
+
+.form-paper .formulario h2{
+    
+text-align: center;
+    
+font-family: GraphikBold;
+    
+text-transform: inherit;
+    
+margin-top: 3rem;
+    
+margin-bottom: 1rem;
+}
+.form-paper .formulario .input-form{
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+.form-paper .formulario .input-form input{
+    
+width: 100%;
+    
+background: transparent;
+    
+border: 1px solid #AEAECE;
+    
+padding: 0.5rem 1rem;
+    
+margin-bottom: 0.75rem;
+    
+font-family: AbelRegular;
+}
+.form-paper .formulario .input-form input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #AEAECE;;
+  opacity: 1; /* Firefox */
+}
+
+.form-paper .formulario .input-form input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #AEAECE;;
+}
+
+.form-paper .formulario .input-form input::-ms-input-placeholder { /* Microsoft Edge */
+  color: #AEAECE;;
+}
+
+.form-paper .formulario .btn-form{
+    
+}
+
+.form-paper .formulario .btn-form button{
+    width: 100%;
+    background: #19f7eb;
+    border: none;
+    text-align: center;
+    font-family: GraphikBold;
+    padding: 0.75rem 1rem;
+    margin-bottom: 5rem;
+}
+@media(max-width:991px){
+  .research-data{
+
+}
+
+
+.research-data .cabecera-research{
+    background: rgba(173, 174, 207, 0.40);
+    min-height: 22rem;
+    padding-top: 8rem;
+    position: relative;
+}
+
+.research-data .cabecera-research img{
+    /* background: rgba(173, 174, 207, 0.40); */
+    position: absolute;
+    margin-top: 0rem;
+    right: calc(50% - 116px);
+}
+.research-data .infopaper{margin-top: -4rem;}
+
+.research-data .infopaper .cont-info{display: block;}
+
+
+.research-data .infopaper .cont-info .image-paper{display: flow;width: 75%;position: relative;margin: 0 auto;}
+
+.research-data .infopaper .cont-info .image-paper img{
+
+width: 100%;
+}
+
+
+.research-data .infopaper .cont-info .info-paper{margin-top: 1rem;padding: 3rem;width: 100%;}
+.research-data .infopaper .cont-info .info-paper h1{font-family: GraphikBold;font-size: 2rem;}
+.research-data .infopaper .cont-info .info-paper .info{font-family: AbelRegular;font-weight: 100;}
+
+.form-paper{
+    
+text-align: center;
+}
+
+.form-paper .formulario{
+    max-width: 673px;
+    margin: 0 auto;
+    width: 82%;
+}
+
+.form-paper .formulario h2{
+    text-align: center;
+    font-family: GraphikBold;
+    text-transform: inherit;
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+.form-paper .formulario .input-form{
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+.form-paper .formulario .input-form input{
+    
+width: 100%;
+    
+background: transparent;
+    
+border: 1px solid #AEAECE;
+    
+padding: 0.5rem 1rem;
+    
+margin-bottom: 0.75rem;
+    
+font-family: AbelRegular;
+}
+.form-paper .formulario .input-form input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #AEAECE;;
+  opacity: 1; /* Firefox */
+}
+
+.form-paper .formulario .input-form input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #AEAECE;;
+}
+
+.form-paper .formulario .input-form input::-ms-input-placeholder { /* Microsoft Edge */
+  color: #AEAECE;;
+}
+
+.form-paper .formulario .btn-form{
+    
+}
+
+.form-paper .formulario .btn-form button{
+    width: 100%;
+    background: #19f7eb;
+    border: none;
+    text-align: center;
+    font-family: GraphikBold;
+    padding: 0.75rem 1rem;
+    margin-bottom: 5rem;
+}
+}

@@ -1,0 +1,58 @@
+.casos-service{
+    position: relative;
+    padding-bottom: 8rem;
+    margin-top: 4rem;
+}
+
+.casos-service .casos-color{
+    padding-top: 2rem;
+    position: relative;
+}
+
+
+.casos-service .casos-color .bg-color{
+    background: var(--main-blue);
+    height: 10rem;
+    position: relative;
+}
+.casos-service .casos-color .bg-color h2{
+    font-family: 'GraphikBold';
+    padding-left: 5%;
+    position: absolute;
+    margin-top: -1rem;
+}
+.casos-service .casos-color .casos-cont{
+    position: relative;
+    margin-top: -7rem;
+    width: 94%;
+    left: 3%;
+    z-index: 9;
+}
+.casos-service .mensaje{
+    position: relative;
+    width: 70%;
+    background: black;
+    font-family: AbelRegular;
+    text-align: center;
+    font-size: 1.25rem;
+    top: 0;
+    padding: 1.5% 1%;
+    color: white;
+    margin-left: auto;
+    margin-right: 3%;
+    margin-top: -10px;
+}
+@media(max-width:991px){
+    .casos-service .mensaje{
+        font-size:0.75rem;
+    }
+.casos-service .casos-color .bg-color{
+    height: 15rem;
+}
+}
+@media(max-width:580px){
+
+.casos-service .casos-color .bg-color{
+    height: 50vw;
+}
+}

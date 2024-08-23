@@ -1,0 +1,36 @@
+.enfoque{
+
+}
+.enfoque .enfoque-cont{
+
+padding: 2%;
+}
+
+.enfoque h3{
+
+color: var(--main-blue);
+
+font-family: 'GraphikBold';
+
+font-size: 3.5rem;
+
+min-height: 9rem;
+
+text-align: left;
+}
+
+
+.enfoque p{font-family: AbelRegular;color: white;font-size: 1.25rem; max-width: 250px;}
+
+@media (max-width:991px){
+.enfoque .enfoque-cont{
+
+padding: 2%;
+}
+
+.enfoque h3{color: var(--main-blue);font-family: 'GraphikBold';font-size: 2.5rem;min-height: 4rem;text-align: left;}
+
+
+.enfoque p{font-family: AbelRegular;color: white;font-size: 1.15rem;max-width: 250px;}
+
+}

@@ -1,0 +1,84 @@
+.span-background-pill{
+    background: var(--main-blue);
+    font-size: 15px;
+    text-decoration:none;
+}
+
+.span-background-pill-secondary{
+    background: #ADAECF4D;
+    text-decoration: none;
+    font-size: 15px;
+    color: #5E5F7E !important;
+}
+
+.a-model-pill{
+    text-decoration:none;
+    color:white;
+}
+
+.selected-topic{
+    margin-top: 2%;
+    /* font-size: 15px; */
+    font-weight: bold;
+    color: #5E5F7E !important;
+
+}
+
+.selected-topic hr {
+  height: 5px;
+  opacity: 1;
+  margin-bottom: 1rem;
+  position: relative;
+  width: 100%;
+}
+
+
+.selected-topic:nth-child(n) hr {
+  background: #aeaece;
+}
+
+.selected-topic:nth-child(3n) hr {
+  background: #19f7eb;
+}
+
+.selected-topic:nth-child(4n) hr {
+  background: #d22431;
+}
+
+.selected-topic:nth-child(5n) hr {
+  background: #60607f;
+}
+
+.notes-list {
+   margin-top: 2rem;
+}
+
+.notes-list h1 {
+  margin-bottom: 2%;
+  /* padding: 0 5%; */
+  line-height: 1;
+  position: relative;
+  font-family: "GraphikSemibold";
+  font-size: 2rem;
+}
+
+.notes-list p {
+  font-family: AbelRegular;
+
+  /* padding: 0 5%; */
+
+  display: -webkit-box;
+
+  font-size: 1rem;
+
+  -webkit-line-clamp: 2;
+
+  -webkit-box-orient: vertical;
+
+  overflow: hidden;
+}
+
+
+.icons{
+    text-align:end;
+}

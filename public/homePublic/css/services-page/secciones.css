@@ -1,0 +1,32 @@
+.seccion-servicios {
+    padding:5%;
+}
+.seccion-servicios.bg-seccion-dark{
+    background:#17182C;
+}
+
+
+.seccion-servicios .title{
+    margin-bottom: 3rem;
+}
+.seccion-servicios .title h2{
+    border-bottom: 2px solid #8183A4;
+    padding-bottom: 0.5rem;
+    color:#17182C;
+    font-size: 1.75rem;
+}
+
+.bg-seccion-dark .title h2{
+ 
+    color:white;
+    
+   
+}
+
+.procesos{
+    background: #EBECF4;
+}
+
+
+
+    

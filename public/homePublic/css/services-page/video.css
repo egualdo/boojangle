@@ -1,0 +1,59 @@
+.video-service{
+    position: relative;
+    padding-bottom: 8rem;
+    margin-top: 4rem;
+}
+
+.video-service .video-color{
+    padding-top: 2rem;
+    position: relative;
+}
+
+
+.video-service .video-color .bg-color{
+    background: var(--main-blue);
+    height: 15rem;
+    position: relative;
+}
+.video-service .video-color .bg-color h2{
+    font-family: 'GraphikBold';
+    padding-left: 5%;
+    position: absolute;
+    margin-top: -1rem;
+}
+.video-service .video-color video{
+    position: relative;
+    margin-top: -12rem;
+    width: 94%;
+    margin-bottom: -6rem;
+    left: 3%;
+    z-index: 9;
+}
+.video-service .mensaje{
+    position: relative;
+    width: 70%;
+    background: black;
+    font-family: AbelRegular;
+    text-align: center;
+    font-size: 1.25rem;
+    top: 0;
+    padding: 1.5% 1%;
+    color: white;
+    margin-left: auto;
+    margin-right: 3%;
+    margin-top: -10px;
+}
+@media(max-width:991px){
+    .video-service .mensaje{
+        font-size:0.75rem;
+    }
+.video-service .video-color .bg-color{
+    height: 15rem;
+}
+}
+@media(max-width:580px){
+
+.video-service .video-color .bg-color{
+    height: 35vw;
+}
+}

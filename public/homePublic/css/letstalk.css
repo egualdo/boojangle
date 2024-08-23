@@ -1,0 +1,12 @@
+.lets-talk-form{
+    position:fixed;
+    top:0;
+    left:0;
+    width: 50%;
+    /* height: 100%; */
+    min-height: 50vh;
+    background: rgb(94 95 126 / 95%);
+    transform: translateX(-100%); 
+    transition: 0.75s;
+    z-index: 99999;
+}

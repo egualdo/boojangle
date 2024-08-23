@@ -1,0 +1,414 @@
+.news-subs{
+    
+    background: #5E5F7E;
+        
+    margin-bottom: -2rem;
+        }
+        
+        .news-subs .form-newsletters{
+            
+        display: flex;
+            
+        padding: 1rem;
+        }
+        
+        
+        .news-subs .form-newsletters .titlenews{
+            
+        color: #83fff8;
+            
+        width: 50%;
+        }
+        .news-subs .form-newsletters .titlenews h4{
+            
+        font-family: GraphikBold;
+            
+        padding: 0;
+            
+        margin: 0;
+            
+        font-size: 1.25rem;
+        }
+        .news-subs .form-newsletters .titlenews h5{
+            
+        font-family: AbelRegular;
+            
+        padding: 0;
+            
+        margin: 0;
+        }
+        
+        
+        .news-subs .form-newsletters .inputnews{
+            
+        width: 40%;
+            
+        min-width: 100px;
+        }
+        
+        .news-subs .form-newsletters .inputnews input{
+            
+        background: transparent;
+            
+        border: 1px solid #AEAECE;
+            
+        min-width: 162px;
+            
+        width: 100%;
+            
+        height: 3rem;
+            
+         /* 343.75% */
+            
+        color: #ADAECF;
+            
+        font-family: 'AbelRegular';
+            
+        font-size: 16px;
+            
+        font-style: normal;
+            
+        font-weight: 400;
+            
+        padding: 1rem;
+            
+        line-height: 55px; /* 343.75% */
+        }
+        
+        .news-subs .form-newsletters .btn-news{
+            
+        width: 10%;
+            
+        font-family: GraphikBold;
+            
+        display: flex;
+            
+        justify-content: end;
+        }
+
+        .news-subs .form-newsletters  .btn-news button{
+            
+        border: none;
+            
+        background: transparent;
+            
+        color: #19f7eb;
+            
+        font-size: 1.25rem;
+        }
+         
+
+          /* .btn-news-modal {
+            font-family: GraphikBold;
+            display: flex;
+            border: none;
+            background: #19f7eb;
+            color: black;
+            font-size: 1.5vw;
+        } */
+        
+        
+        @media (max-width:1200px){
+         .news-subs{
+            
+        background: #5E5F7E;
+        }
+        
+        .news-subs .form-newsletters{
+            
+        display: flex;
+            
+        padding: 1rem;
+        }
+        
+        
+        .news-subs .form-newsletters .titlenews{
+            
+        color: #83fff8;
+            
+        width: 50%;
+        }
+        .news-subs .form-newsletters .titlenews h4{
+            font-family: GraphikBold;
+            padding: 0;
+            margin: 0;
+            font-size: 1.5vw;
+        }
+        .news-subs .form-newsletters .titlenews h5{
+            
+        font-family: AbelRegular;
+            
+        padding: 0;
+            
+        margin: 0;
+        }
+        
+        
+        .news-subs .form-newsletters .inputnews{
+            
+        width: 40%;
+            
+        min-width: 100px;
+        }
+        
+        .news-subs .form-newsletters .inputnews input{
+            
+        background: transparent;
+            
+        border: 1px solid #AEAECE;
+            
+        min-width: 162px;
+            
+        width: 100%;
+            
+        height: 3rem;
+            
+         /* 343.75% */
+            
+        color: #ADAECF;
+            
+        font-family: 'AbelRegular';
+            
+        font-size: 16px;
+            
+        font-style: normal;
+            
+        font-weight: 400;
+            
+        padding: 1rem;
+            
+        line-height: 55px; /* 343.75% */
+        }
+        
+        .news-subs .form-newsletters .btn-news{
+            
+        width: 10%;
+            
+        font-family: GraphikBold;
+            
+        display: flex;
+            
+        justify-content: end;
+        }
+        
+        .news-subs .form-newsletters  .btn-news button{
+            border: none;
+            background: transparent;
+            color: #19f7eb;
+            font-size: 1.5vw;
+        }
+
+        
+
+          /* .btn-news-modal {
+            font-family: GraphikBold;
+            display: flex;
+            border: none;
+            background: #19f7eb;
+            color: black;
+            font-size: 1.5vw;
+        } */
+        
+        }
+        @media (max-width:1200px){
+         .news-subs{
+            
+        background: #5E5F7E;
+        }
+        
+        .news-subs .form-newsletters{
+            
+        display: flex;
+            
+        padding: 1rem;
+        }
+        
+        
+        .news-subs .form-newsletters .titlenews{
+            
+        color: #83fff8;
+            
+        width: 50%;
+        }
+        .news-subs .form-newsletters .titlenews h4{
+            font-family: GraphikBold;
+            padding: 0;
+            margin: 0;
+            font-size: 1.5vw;
+        }
+        .news-subs .form-newsletters .titlenews h5{
+            
+        font-family: AbelRegular;
+            
+        padding: 0;
+            
+        margin: 0;
+        }
+        
+        
+        .news-subs .form-newsletters .inputnews{
+            
+        width: 40%;
+            
+        min-width: 100px;
+        }
+        
+        .news-subs .form-newsletters .inputnews input{
+            
+        background: transparent;
+            
+        border: 1px solid #AEAECE;
+            
+        min-width: 162px;
+            
+        width: 100%;
+            
+        height: 3rem;
+            
+         /* 343.75% */
+            
+        color: #ADAECF;
+            
+        font-family: 'AbelRegular';
+            
+        font-size: 16px;
+            
+        font-style: normal;
+            
+        font-weight: 400;
+            
+        padding: 1rem;
+            
+        line-height: 55px; /* 343.75% */
+        }
+        
+        .news-subs .form-newsletters .btn-news{
+            
+        width: 10%;
+            
+        font-family: GraphikBold;
+            
+        display: flex;
+            
+        justify-content: end;
+        }
+
+         
+
+          /* .btn-news-modal {
+            font-family: GraphikBold;
+            display: flex;
+            border: none;
+            background: #19f7eb;
+            color: black;
+            font-size: 1.5vw;
+        } */
+        
+
+        
+        .news-subs .form-newsletters  .btn-news button{
+            border: none;
+            background: transparent;
+            color: #19f7eb;
+            font-size: 1.5vw;
+        }
+        }
+        
+        @media (max-width:991px){
+         .news-subs{
+            
+        background: #5E5F7E;
+        }
+        
+        .news-subs .form-newsletters{
+            display: flex;
+            padding: 1rem;
+            /* flex-direction: column; */
+            /* justify-content: center; */
+            /* align-items: center; */
+            flex-flow: inherit;
+        }
+        
+        
+        .news-subs .form-newsletters .titlenews{
+            color: #83fff8;
+            width: 90%;
+            text-align: center;
+            flex-wrap: wrap;
+            flex: inherit;
+            margin-bottom: 2vw;
+        }
+        .news-subs .form-newsletters .titlenews h4{
+            font-family: GraphikBold;
+            padding: 0;
+            margin: 0;
+            font-size: 5.5vw;
+        }
+        .news-subs .form-newsletters .titlenews h5{
+            font-family: AbelRegular;
+            padding: 0;
+            margin: 0;
+            font-size: 4vw;
+        }
+        
+        
+        .news-subs .form-newsletters .inputnews{
+            width: 71%;
+            min-width: 100px;
+        }
+        
+        .news-subs .form-newsletters .inputnews input{
+            
+        background: transparent;
+            
+        border: 1px solid #AEAECE;
+            
+        min-width: 162px;
+            
+        width: 100%;
+            
+        height: 3rem;
+            
+         /* 343.75% */
+            
+        color: #ADAECF;
+            
+        font-family: 'AbelRegular';
+            
+        font-size: 16px;
+            
+        font-style: normal;
+            
+        font-weight: 400;
+            
+        padding: 1rem;
+            
+        line-height: 55px; /* 343.75% */
+        }
+        
+        .news-subs .form-newsletters .btn-news{
+            width: 28%;
+            font-family: GraphikBold;
+            display: flex;
+            justify-content: end;
+        }
+
+        
+        
+          /* .btn-news-modal {
+            font-family: GraphikBold;
+            display: flex;
+            border: none;
+            background: #19f7eb;
+            color: black;
+            font-size: 1.5vw;
+        } */
+        
+        
+        .news-subs .form-newsletters  .btn-news button{
+            border: none;
+            background: transparent;
+            color: #19f7eb;
+            font-size: 1rem;
+        }
+        }

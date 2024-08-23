@@ -1,0 +1,93 @@
+
+                .btn-news-modal {
+                    font-family: GraphikBold;
+                    display: flex;
+                    border: none;
+                    background: #19f7eb;
+                    color: black;
+                    width: 100%;
+                    justify-content: center;
+                    font-size: 1.25rem;
+                    padding: 10px;
+                }
+
+                .checkbox-news-modal {
+                background: transparent;    
+                border: 1px solid #AEAECE;
+                color: #ADAECF;
+                font-family: 'AbelRegular';            
+                font-style: normal;
+                padding: 1rem;
+                line-height: 55px;
+                }
+
+                .label-news-modal {
+                background: transparent;
+                background-color: transparent;    
+                color: #ADAECF;
+                font-family: 'AbelRegular';            
+                font-style: normal;
+                }
+
+                .div-input-news-modal{
+                    padding: 5px;
+                }
+                
+                .inputnews-modal{
+                width: 100%;
+                background: transparent;
+                border: 1px solid #AEAECE;
+                height: 3rem;
+                color: #ADAECF;
+                font-family: 'AbelRegular';
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                padding: 1rem;
+                line-height: 55px;
+                }
+
+                ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    color:#ADAECF;
+                    opacity: 1; /* Firefox */
+                }
+
+                .textarea-news{
+                background: transparent;
+                border: 1px solid #AEAECE;
+                width: 100%;
+                height: 4rem;
+                color: #ADAECF;
+                font-family: 'AbelRegular';
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                padding-left: 1rem;
+                line-height: 55px;
+                }
+
+
+
+                .button-sticky{
+                    background: rgb(94 95 126 / 95%);
+                    position:fixed; top: 150px;
+                    left: 20px;
+                    writing-mode: vertical-rl;
+                    text-orientation: mixed;
+                    font-family: GraphikBold;
+                    /* display: flex; */
+                    border: none;
+                    /* background: ; */
+                    color: #19f7eb;
+                    /* width: 100%; */
+                    justify-content: center;
+                    font-size: 1.25rem;
+                    padding: 10px;
+                }
+
+                .modalletstalk{
+                    height: 90%;
+                    width: 100%;
+                    overflow-y: auto;
+                }
+        

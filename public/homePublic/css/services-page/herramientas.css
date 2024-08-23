@@ -1,0 +1,129 @@
+    .herramientas{
+
+        margin-top: -3rem;
+    }
+    .herramientas .herramientas-cont{
+    
+    padding: 2%;
+    }
+    
+    .herramientas .img-herramientas{
+    
+    text-align: center;
+    
+    position: relative;
+    
+    min-height: 8rem;
+    
+    display: flex;
+    
+    flex-direction: column;
+    
+    justify-content: center;
+    
+    margin: 0 auto;
+    }
+    .herramientas .img-herramientas img{
+    
+    max-width: 70%;
+    
+    margin: 0 auto;
+    }
+    
+    .herramientas p{font-family: AbelRegular;color: #60607F;font-size: 1.25rem;}
+    
+    @media (max-width:991px){
+        .herramientas .herramientas-cont{
+        
+        padding: 2%;
+        }
+        
+        
+        .herramientas p{font-size: 1.15rem;}
+
+    
+        
+    }
+
+     .procesos{
+        background: #EBECF4;
+    }
+
+    .elements{
+           /* text-align: center; */
+           /* vertical-align: middle; */
+    }
+
+   
+
+    /* @media (max-width:991px){ */
+    
+         .elements-button{
+
+            /* vertical-align: middle; */
+            width: 369px;
+            height: 80px;
+            /* padding: 1%; */
+            /* padding-top: 20px; */
+            /* padding-bottom: 20px; */
+            /* padding-left: 50px; */
+            /* padding-right: 50px; */
+            margin-bottom: 2%;
+         
+
+            display: inline-block;
+            /* font-weight: 600; */
+            /* line-height: 1.5; */
+            /* color: #212529; */
+            /* text-align: center; */
+            /* text-decoration: none; */
+            /* vertical-align: middle; */
+            /* cursor: pointer; */
+            /* -webkit-user-select: none; */
+            /* -moz-user-select: none; */
+            /* user-select: none; */
+            /* background-color: transparent; */
+            /* border: 1px solid transparent; */
+            /* padding: .375rem .75rem; */
+            /* font-size: 2rem; */
+            /* border-radius: .25rem; */
+        }
+         .elements-button-text{
+
+            
+            font-weight: 600;
+            line-height: 2;
+            color: #212529;
+            text-align: center;
+            text-decoration: none;
+            vertical-align: bottom;
+            
+            font-size: 2rem;
+        }
+
+
+    /* } */
+    
+        
+    .elements-p{
+            /* vertical-align: middle; */
+            /* margin-bottom: 2%; */
+    }
+
+    /* .equipo-1{
+        background:#60607F;
+        color:#AEAECE;
+        line-height: 45px;
+    }
+
+    .equipo-2{
+        background: #ADAECF;
+        color: #212529;
+        line-height: 45px;
+    } */
+
+    
+
+     
+
+    
